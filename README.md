@@ -23,8 +23,8 @@ A seguir estão os integrantes que contribuem para este repositório, juntamente
 3. **Gustavo Rodrigues Marques**
    Registro Acadêmico: 622122410
 
-4. **[Nome do Integrante 3]**
-   Registro Acadêmico:
+4. **Daniel Jones Marques**
+   Registro Acadêmico: 622122063
 
-5. **[Nome do Integrante 3]**
-   Registro Acadêmico:
+5. **Paulo Mateus Caetano Gonçalves**
+   Registro Acadêmico: 622122985
