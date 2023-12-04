@@ -6,6 +6,10 @@ Bem-vindo ao repositório dedicado às atividades realizadas durante as aulas de
 
 O repositório está organizado em pastas que correspondem a cada atividade ou projeto específico. Dentro de cada pasta, você encontrará os arquivos relacionados à respectiva tarefa, incluindo códigos-fonte e outros recursos relevantes.
 
+## Sobre as práticas
+
+As sessões práticas eram conduzidas pelo Professor Osmar Ventura Gomes, durante as quais nosso grupo formava duplas e colaborava mutuamente. Ambos os membros revezavam na montagem do circuito e na codificação do código, visando obter o melhor aproveitamento de conhecimento.
+
 ## Integrantes
 
 A seguir estão os integrantes que contribuem para este repositório, juntamente com suas respectivas responsabilidades:
@@ -13,11 +17,11 @@ A seguir estão os integrantes que contribuem para este repositório, juntamente
 1. **Lucas Gabriel da Silva Chagas**
    Registro Acadêmico: 62122625
 
-2. **[Nome do Integrante 2]**
-  Registro Acadêmico:
+2. **Marco Túlio Salvador Filho**
+  Registro Acadêmico: 622122286
 
-3. **[Nome do Integrante 3]**
-   Registro Acadêmico:
+3. **Gustavo Rodrigues Marques**
+   Registro Acadêmico: 622122410
 
 4. **[Nome do Integrante 3]**
    Registro Acadêmico:
