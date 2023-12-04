@@ -12,7 +12,7 @@ As sessões práticas eram conduzidas pelo Professor Osmar Ventura Gomes, durant
 
 ## Integrantes
 
-A seguir estão os integrantes que contribuem para este repositório, juntamente com suas respectivas responsabilidades:
+A seguir estão os integrantes que contribuem para este repositório:
 
 1. **Lucas Gabriel da Silva Chagas**
    Registro Acadêmico: 62122625
