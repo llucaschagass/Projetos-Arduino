@@ -12,14 +12,15 @@ A seguir estão os integrantes que contribuem para este repositório, juntamente
 
 1. **Lucas Gabriel da Silva Chagas**
    Registro Acadêmico: 62122625
-   Contato: lucasgschagas@gmail.com
 
 2. **[Nome do Integrante 2]**
   Registro Acadêmico:
-  Contato: 
 
 3. **[Nome do Integrante 3]**
    Registro Acadêmico:
-   Contato: 
 
-4. 
+4. **[Nome do Integrante 3]**
+   Registro Acadêmico:
+
+5. **[Nome do Integrante 3]**
+   Registro Acadêmico:
